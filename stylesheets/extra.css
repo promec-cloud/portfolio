@@ -1,0 +1,18 @@
+/* Aumenta o tamanho da logo no cabeçalho superior */
+.md-header__button.md-logo img, 
+.md-header__button.md-logo svg {
+  height: 3.0rem; 
+  width: auto;
+}
+
+.instagram {
+  color: #A020F0 ;
+}
+
+.whatsapp {
+  color: #90EE90 ;
+}
+
+.email {
+  color: #FFFFFF ;	
+}
